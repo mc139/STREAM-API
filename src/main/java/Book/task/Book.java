@@ -45,6 +45,11 @@ public class Book {
         this.yearOfRelease = yearOfRelease;
     }
 
+    public void show (Book book){
+        System.out.println(book);
+    }
+
+
     @Override
     public String toString() {
         return "Book{" +
