@@ -2,7 +2,21 @@ Book/task/Book.java
  Book.task.Book
 Book/task/flight/Flight.java
  Book.task.flight.Flight
-Book/task/App.java
- Book.task.App
 Book/task/flight/App.java
  Book.task.flight.App
+Book/task/App.java
+ Book.task.App
+Dice/RealRandomNumber.java
+ Dice.RealRandomNumber
+Dice/NumberGenerator.java
+ Dice.NumberGenerator
+Dice/CheatedRandomNumber.java
+ Dice.CheatedRandomNumber
+Dice/StandardDice.java
+ Dice.StandardDice
+Dice/Dice.java
+ Dice.Dice
+Dice/CheatedDice.java
+ Dice.CheatedDice
+Dice/App.java
+ Dice.App
